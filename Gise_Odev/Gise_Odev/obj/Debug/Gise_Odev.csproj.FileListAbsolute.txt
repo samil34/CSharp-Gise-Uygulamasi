@@ -1,0 +1,7 @@
+C:\Users\samil\Desktop\2021\Görsel Programlama\Ödev_3\Gise_Odev\Gise_Odev\bin\Debug\Gise_Odev.exe.config
+C:\Users\samil\Desktop\2021\Görsel Programlama\Ödev_3\Gise_Odev\Gise_Odev\bin\Debug\Gise_Odev.exe
+C:\Users\samil\Desktop\2021\Görsel Programlama\Ödev_3\Gise_Odev\Gise_Odev\bin\Debug\Gise_Odev.pdb
+C:\Users\samil\Desktop\2021\Görsel Programlama\Ödev_3\Gise_Odev\Gise_Odev\obj\Debug\Gise_Odev.csprojAssemblyReference.cache
+C:\Users\samil\Desktop\2021\Görsel Programlama\Ödev_3\Gise_Odev\Gise_Odev\obj\Debug\Gise_Odev.csproj.CoreCompileInputs.cache
+C:\Users\samil\Desktop\2021\Görsel Programlama\Ödev_3\Gise_Odev\Gise_Odev\obj\Debug\Gise_Odev.exe
+C:\Users\samil\Desktop\2021\Görsel Programlama\Ödev_3\Gise_Odev\Gise_Odev\obj\Debug\Gise_Odev.pdb
